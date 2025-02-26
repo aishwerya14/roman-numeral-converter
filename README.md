@@ -68,6 +68,9 @@ npm test
 
 5.** API Endpoint**
 Convert Integer to Roman Numeral
+
+![image](https://github.com/user-attachments/assets/4c16e855-fc41-4e93-968a-03344b9c98e4)
+
 Example Request:
 ```sh
 curl "http://localhost:8080/romannumeral?query=13"
@@ -111,6 +114,9 @@ tail -f backend/logs/app.log
 2. Metrics (Prometheus)
 Start Prometheus:
 
+
+
+![image](https://github.com/user-attachments/assets/341a8ab3-7fae-4c75-9bf2-620ebce1f54e)
 
 ![image](https://github.com/user-attachments/assets/d6b85226-6bab-4ee9-aed1-2627c081f5ce)
 
